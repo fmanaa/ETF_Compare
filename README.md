@@ -1,7 +1,3 @@
-# ETF_Compare
-Markdown
-
-
 |                     Factor                      |  HLAL  |  SPUS   |         Comments          |
 |-------------------------------------------------|--------|---------|---------------------------|
 | Number of Constituents                          | 221    | 201     | Not much to differentiate |
